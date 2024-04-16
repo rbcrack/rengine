@@ -30,3 +30,4 @@ tldextract==3.1.0
 validators==0.18.2
 watchdog
 whatportis==0.8.2
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
